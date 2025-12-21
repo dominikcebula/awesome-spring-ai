@@ -95,6 +95,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Articles
 
+- [Retrieval Augmented Generation with Docling, Java and Spring AI](https://www.thomasvitale.com/rag-docling-java-spring-ai/) - Build a Retrieval Augmented Generation (RAG) system in Java using Spring AI and Docling to parse and index documents into a vector store for semantic search (December 2025)
 - [Building AI-Native APIs with Spring AI and Model Context Protocol](https://www.thedavestack.com/spring-ai-mcp/) - Practical guide to implementing MCP servers in Spring Boot applications, introducing the "dual API paradigm" for AI integration with existing services using tools, resources, and prompts (September 2025)
 - [Creating Private AI Applications with Spring AI and GPT OSS](https://ik.am/entries/867/en) - Comprehensive tutorial demonstrating Spring AI integration with local gpt-oss:20b model using Ollama, featuring RAG, chat memory, structured output, and building an immigration advisor chatbot (September 2025)
 - [Mastering Spring AI: Easily Add LLM Smarts to Your Spring Boot Applications](https://mobisoftinfotech.com/resources/blog/mastering-spring-ai/) - Demonstrates swapping between GPT-4 and Gemini with Spring AI configuration; highlights avoiding vendor lock-in (August 2025)
